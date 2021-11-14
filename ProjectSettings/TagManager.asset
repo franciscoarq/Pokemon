@@ -12,9 +12,9 @@ TagManager:
   - Water
   - UI
   - Objetos Solidos
-  - 
-  - 
-  - 
+  - Pokemon Hierba
+  - Pokemon Cueva
+  - Pokemon Agua
   - 
   - 
   - 
@@ -52,4 +52,7 @@ TagManager:
     locked: 0
   - name: Jugador
     uniqueID: 4032491029
+    locked: 0
+  - name: Frente
+    uniqueID: 4089832961
     locked: 0
